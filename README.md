@@ -6,4 +6,4 @@ Coinciding blog post here: http://blog.chewbonga.com/file-image-uploader
 ### Steps
 1. 'npm install'
 2. 'npm start'
-3. 'Access http://localhost:8000'
+3. Access 'http://localhost:8000'
